@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "https://afzalRapidInnovation.github.io/task-management-frontend/static/js/main.4db49682.chunk.js",
+    "main.js.map": "https://afzalRapidInnovation.github.io/task-management-frontend/static/js/main.4db49682.chunk.js.map",
+    "runtime~main.js": "https://afzalRapidInnovation.github.io/task-management-frontend/static/js/runtime~main.24f9c8f2.js",
+    "runtime~main.js.map": "https://afzalRapidInnovation.github.io/task-management-frontend/static/js/runtime~main.24f9c8f2.js.map",
+    "static/js/2.59890f25.chunk.js": "https://afzalRapidInnovation.github.io/task-management-frontend/static/js/2.59890f25.chunk.js",
+    "static/js/2.59890f25.chunk.js.map": "https://afzalRapidInnovation.github.io/task-management-frontend/static/js/2.59890f25.chunk.js.map",
+    "index.html": "https://afzalRapidInnovation.github.io/task-management-frontend/index.html",
+    "precache-manifest.bcea44305c6b25baa083e6b158aa20da.js": "https://afzalRapidInnovation.github.io/task-management-frontend/precache-manifest.bcea44305c6b25baa083e6b158aa20da.js",
+    "service-worker.js": "https://afzalRapidInnovation.github.io/task-management-frontend/service-worker.js"
+  }
+}
